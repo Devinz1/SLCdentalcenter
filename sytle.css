@@ -1,0 +1,123 @@
+* {
+	outline: 1px solid red;
+}
+
+body{
+	background-color: white;
+	width: 95%;
+}
+.heading {
+
+    width: 100%;
+    height: 5%;
+    background: #4679BD;
+    border: solid white 1px;
+    text-align: center;
+    margin: 0% auto;
+    padding: 1% 0% 1% 0%;
+
+}
+
+
+		
+.menu-top{
+	margin: 0% 2% 0% 12%;
+}
+	
+
+
+
+ul{
+	
+	background-color: white;
+	font-size: 24px;
+	float: right;
+	color: blue;
+	font-family: Helvetica;
+
+	
+	
+	
+}
+
+.home{
+	float: left;
+}
+
+.staff{
+	float: left;
+
+}
+.reviews{
+	float: left;
+}
+
+.services{
+	float: left;
+
+}
+.office {
+	float: left;
+
+}
+.contact{
+    float: left;
+}
+.mainPic{
+	margin: 2% 0% 0% 12%;
+
+}
+
+
+.containerone{
+	float: left;
+	margin: 5% 1% 0% 12%;
+	
+  
+	
+	
+}
+.containertwo{
+	
+	float: left;
+	margin: 5% 1% 0% 1%;
+
+		
+	
+}
+.containerthree{
+	float: left;
+	position: relative;
+	
+	margin: 5% 1% 0% 1%;
+}
+.wordsone{
+	text-align: left;
+	
+	margin: 0% 66% 0% 12%;
+
+}
+.wordstwo{
+	float: left;
+	margin: 0% 36% 0% 24%;
+	display: inline-block;
+	
+	
+}
+.wordsthree{
+	float: left;
+	display: inline-block;
+}
+.familypic{
+	float: left;
+	margin: 2% 14.5% 3% 12%;
+	
+	font-family: helvetica;
+}
+
+
+
+
+.video{
+	margin: 2% 12% 0% 12%;
+}
